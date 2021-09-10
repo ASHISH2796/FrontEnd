@@ -45,3 +45,35 @@ Selectors
 where n can be any +ive no.
 eg : #id:link {//css}
      #id:visited {//css} 
+     
+  
+  
+  Attribute Selector
+  img[src="value"] {
+  //css property
+  }
+  
+  
+  
+  Coloring & Formatting
+   Opacity
+   Gradient
+   
+ Type of Unit
+ Absolute(cm,mm,inc with out any ref around then) and relative (depend on something or screen size or parent element size)
+ relative 
+   > pixel -px , pt,pc
+   > percentage -%
+   > em : eg 1.5em  then 1.5 time bigger or size 
+   > view port - vw - view width or vh view height
+ 
+ Text manipulation
+ - text-decoration:
+ - text-transform
+ - text-align : center/left/right/justify
+
+Font manipulation
+- font-size
+- font-weight
+- font-style
+- font-family :  font type to be used eh font-family:'Georgia',serif; -> it mean font will Georgia if any issue with georgia then use serif
