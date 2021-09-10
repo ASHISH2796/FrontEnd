@@ -64,7 +64,7 @@ eg : #id:link {//css}
  relative 
    > pixel -px , pt,pc
    > percentage -%
-   > em : eg 1.5em  then 1.5 time bigger or size 
+   > em : eg 1.5em  then 1.5 time bigger or size - Specify a certain no of time bigger than size of current font
    > view port - vw - view width or vh view height
  
  Text manipulation
@@ -77,3 +77,6 @@ Font manipulation
 - font-weight
 - font-style
 - font-family :  font type to be used eh font-family:'Georgia',serif; -> it mean font will Georgia if any issue with georgia then use serif
+
+------------------ Layout ----------------
+
