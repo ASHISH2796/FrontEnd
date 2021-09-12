@@ -79,4 +79,16 @@ Font manipulation
 - font-family :  font type to be used eh font-family:'Georgia',serif; -> it mean font will Georgia if any issue with georgia then use serif
 
 ------------------ Layout ----------------
+for each element we have a box or model 
+in each model we have content,padding,Border,margin respectively.
 
+Padding : space between content and border , it basicaly provide extra room/space around content use for internal space
+border : divider between padding and margin : eg border: 1px solid
+margin : space between border and all other content , use for external space
+
+Float  & Display type
+ Block type tag : it has own block space and if added will move other tag or block space nearby
+ inline element : will keep it intact eg : span type
+ 
+ float : value  : will move every thing nearby based on value
+Display: none : tag will be remove from ui
